@@ -1,1 +1,2 @@
-# Image-Classification-using-CNN
+# Deep Learning Based Skin Disease Classification
+Skin diseases are among the most common of all human health disorders and infect around 900 million people in the world at any time. Problems arise when patients only guess the skin disease, they encountered without being accurately and precisely examined. This is because human eye has limitations, it lacks accuracy and quantification. This Project presents an evaluation of skin disease classification using Convolutional Neural Networks. CNN model has been trained and validated using a public dataset of 1169 images consisting of 2 types of skin diseases: Psoriasis & Melanoma. A decent accuracy rate of 90% has been obtained through the classification.
